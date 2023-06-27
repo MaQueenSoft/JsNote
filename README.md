@@ -1,2 +1,2 @@
 # JsNote
-Javascript Note App
+Javascript Note App - Tutorial
